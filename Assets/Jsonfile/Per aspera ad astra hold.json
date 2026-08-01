@@ -1,0 +1,7641 @@
+{
+  "projectName": "Per aspera",
+  "bpm": 234,
+  "duration": 141.08,
+  "groups": {
+    "Notes": [
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 1.41,
+        "duration": 0.641
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 1.41,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 1.41,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 2.051,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 2.115,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 2.179,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 2.244,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 2.436,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 2.564,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 2.692,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 2.821,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 2.949,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 3.077,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 3.077,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 3.205,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 3.333,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 3.462,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 3.59,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 3.59,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 3.718,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 3.846,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 3.974,
+        "duration": 0.513
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 3.974,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 4.615,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 4.615,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 4.744,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 4.872,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 5,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 5,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 5.128,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 5.128,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 5.385,
+        "duration": 0.769
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 5.513,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 5.641,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 5.769,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 5.897,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 5.897,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 6.41,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 6.474,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 6.538,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 6.603,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 6.795,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 6.795,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 7.179,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 7.244,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 7.308,
+        "duration": 0.705
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 7.436,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 7.436,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 7.628,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 7.821,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 7.821,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 8.013,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 8.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 8.205,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 8.397,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 8.59,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 8.59,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 8.59,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 8.846,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 8.91,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 8.974,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 9.038,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 9.231,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 9.231,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 9.359,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 9.423,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 9.423,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 9.615,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 9.615,
+        "duration": 0.577
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 10.128,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 10.256,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 10.385,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 10.385,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 10.513,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 10.513,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 10.641,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 10.769,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 10.769,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 10.897,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 10.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 11.09,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 11.282,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 11.282,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 11.41,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 11.41,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 11.538,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 11.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 11.795,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 11.795,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 11.923,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 12.051,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 12.179,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 12.308,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 12.308,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 12.436,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 12.564,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 12.564,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 12.692,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 12.692,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 12.821,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 12.949,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 13.077,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 13.077,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 13.077,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 13.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 13.205,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 13.205,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 13.397,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 13.59,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 13.718,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 13.846,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 13.974,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 13.974,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 14.103,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 14.231,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 14.231,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 14.359,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 14.551,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 14.615,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 14.744,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 14.872,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 14.936,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 15,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 15.128,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 15.192,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 15.256,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 15.385,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 15.513,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 15.577,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 15.641,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 15.705,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 15.769,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 15.897,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 15.962,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 16.026,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 16.09,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 16.09,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 16.154,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 16.154,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 16.346,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 16.41,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 16.538,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 16.667,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 16.667,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 16.795,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 16.923,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 17.051,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 17.179,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 17.308,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 17.308,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 17.436,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 17.564,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 17.692,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 17.821,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 17.949,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 17.949,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 18.077,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 18.205,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 18.333,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 18.462,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 18.59,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 18.718,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 18.846,
+        "duration": 0.705
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 18.846,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 19.231,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 19.359,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 19.487,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 19.615,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 19.744,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 19.744,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 19.872,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 19.936,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 20,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 20.064,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 20.128,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 20.192,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 20.256,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 20.321,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 20.385,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 20.449,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 20.513,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 20.577,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 20.641,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 20.705,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 20.769,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 20.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 20.897,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 21.154,
+        "duration": 0.385
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 21.154,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 21.41,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 21.474,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 21.538,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 21.667,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 21.923,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 22.051,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 22.051,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 22.308,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 22.372,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 22.436,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 22.564,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 22.692,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 22.821,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 22.821,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 22.949,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 22.949,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 23.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 23.205,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 23.718,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 23.718,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 23.846,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 23.974,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 24.103,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 24.103,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 24.231,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 24.359,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 24.487,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 24.615,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 24.615,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 24.744,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 24.744,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 24.872,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 25,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 25.128,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 25.256,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 25.385,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 25.385,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 25.513,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 25.641,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 25.641,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 25.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 25.962,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 26.026,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 26.09,
+        "duration": 0.577
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 26.41,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 26.41,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 26.538,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 26.538,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 26.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 26.667,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 27.179,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 27.244,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 27.308,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 27.372,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 27.436,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 27.436,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 27.692,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 27.692,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 27.949,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 27.949,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 28.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 28.333,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 28.333,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 28.462,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 28.59,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 28.718,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 28.718,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 28.846,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 28.974,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 28.974,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 29.231,
+        "duration": 0.385
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 29.231,
+        "duration": 0.385
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 29.487,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 29.551,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 29.615,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 29.679,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 29.872,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 29.936,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 30,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 30.064,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 30.128,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 30.192,
+        "duration": 0.577
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 30.256,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 30.256,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 30.513,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 30.513,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 30.769,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 30.897,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 31.026,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 31.026,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 31.154,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 31.282,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 31.282,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 31.538,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 31.538,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 31.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 31.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 32.051,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 32.179,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 32.308,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 32.308,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 32.564,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 32.564,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 32.692,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 32.821,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 32.821,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 32.949,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 33.077,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 33.077,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 33.205,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 33.205,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 33.59,
+        "duration": 0.513
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 33.59,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 33.59,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 33.59,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 33.974,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 34.103,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 34.167,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 34.359,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 34.359,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 34.487,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 34.487,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 34.615,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 34.615,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 34.744,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 34.872,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 34.872,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 35,
+        "duration": 0.577
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 35,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 35.128,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 35.128,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 35.256,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 35.256,
+        "duration": 0.705
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 35.385,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 35.513,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 35.641,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 35.769,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 35.897,
+        "duration": 0.769
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 35.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 36.09,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 36.282,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 36.282,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 36.41,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 36.538,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 36.538,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 36.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 36.795,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 36.795,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 36.859,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 36.923,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 37.051,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 37.179,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 37.212,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 37.34,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 37.372,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 37.372,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 37.5,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 37.564,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 37.564,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 37.692,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 37.756,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 37.756,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 37.885,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 38.077,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 38.077,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 38.462,
+        "duration": 0.833
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 38.462,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 38.59,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 38.718,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 38.718,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 38.782,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 38.846,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 38.974,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 38.974,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 39.038,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 39.103,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 39.167,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 39.231,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 39.359,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 39.487,
+        "duration": 1.987
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 39.487,
+        "duration": 1.987
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 42.051,
+        "duration": 2.051
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 42.051,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 42.051,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 42.821,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 42.821,
+        "duration": 1.282
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 44.231,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 44.359,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 44.487,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 44.615,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 44.808,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 44.808,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 45.128,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 45.128,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 45.449,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 45.449,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 45.769,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 46.026,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 46.026,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 46.282,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 46.282,
+        "duration": 1.154
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 47.692,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 47.692,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 47.821,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 47.949,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 48.077,
+        "duration": 0.577
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 48.077,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 48.846,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 48.846,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 48.974,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 48.974,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 49.103,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 49.103,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 49.231,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 49.231,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 49.359,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 49.359,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 49.487,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 49.487,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 49.615,
+        "duration": 1.026
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 49.615,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 50.385,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 50.513,
+        "duration": 1.218
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 50.641,
+        "duration": 1.026
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 50.641,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 51.667,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 51.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 51.795,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 51.923,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 52.051,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 52.051,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 52.179,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 52.308,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 52.436,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 52.564,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 52.692,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 52.692,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 52.821,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 52.949,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 53.077,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 53.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 53.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 53.333,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 53.333,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 53.526,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 53.526,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 53.718,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 53.718,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 53.846,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 53.974,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 54.103,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 54.103,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 54.103,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 54.231,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 54.359,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 54.359,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 54.487,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 54.615,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 54.615,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 54.872,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 54.872,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 55,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 55,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 55.256,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 55.256,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 55.385,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 55.385,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 55.513,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 55.705,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 55.705,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 56.026,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 56.09,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 56.154,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 56.218,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 56.282,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 56.346,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 56.41,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 56.474,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 56.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 56.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 56.795,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 56.795,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 57.051,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 57.051,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 57.179,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 57.179,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 57.436,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 57.692,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 57.692,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 57.821,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 57.949,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 57.949,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 58.077,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 58.205,
+        "duration": 1.603
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 58.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 58.333,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 58.333,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 58.718,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 58.718,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 58.846,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 58.846,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 59.231,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 59.231,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 59.359,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 59.487,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 59.487,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 59.615,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 59.744,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 59.744,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 60,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 60,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 60.128,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 60.256,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 60.385,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 60.513,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 60.513,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 60.641,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 60.769,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 60.897,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 60.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 61.026,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 61.154,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 61.154,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 61.282,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 61.41,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 61.538,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 61.538,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 61.667,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 61.795,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 61.923,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 62.051,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 62.179,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 62.308,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 62.308,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 62.436,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 62.596,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 62.724,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 62.853,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 62.853,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 62.981,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 63.109,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 63.237,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 63.237,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 63.365,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 63.494,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 63.494,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 63.622,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 63.75,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 63.878,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 63.878,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 64.006,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 64.135,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 64.263,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 64.391,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 64.519,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 64.647,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 64.647,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 64.744,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 64.744,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 64.872,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 64.872,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 65,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 65,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 65.256,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 65.385,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 65.385,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 65.513,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 65.513,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 65.641,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 65.641,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 65.769,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 65.769,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 65.897,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 66.154,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 66.154,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 66.282,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 66.282,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 66.41,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 66.41,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 66.538,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 66.538,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 66.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 66.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 66.795,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 66.795,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 66.923,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 66.987,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 67.051,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 67.115,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 67.179,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 67.244,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 67.308,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 67.372,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 67.436,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 67.5,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 67.564,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 67.628,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 67.692,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 67.756,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 67.821,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 67.885,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 67.949,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 68.013,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 68.077,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 68.141,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 68.205,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 68.269,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 68.333,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 68.397,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 68.462,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 68.526,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 68.59,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 68.654,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 68.718,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 68.782,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 68.846,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 68.91,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 68.974,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 69.038,
+        "duration": 0.769
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 69.038,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 69.744,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 69.744,
+        "duration": 0.641
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 69.744,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 70.256,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 70.256,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 70.256,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 70.769,
+        "duration": 1.026
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 70.769,
+        "duration": 0.962
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 70.769,
+        "duration": 0.962
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 70.769,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 72.051,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 72.179,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 72.308,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 72.308,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 72.436,
+        "duration": 0.449
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 72.436,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 72.821,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 72.885,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 72.949,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 73.013,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 73.077,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 73.141,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 73.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 73.269,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 73.333,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 73.397,
+        "duration": 0.897
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 73.397,
+        "duration": 0.833
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 73.462,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 73.59,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 73.718,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 73.846,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 73.974,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 74.103,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 74.231,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 74.359,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 74.359,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 74.551,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 74.551,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 74.872,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 74.872,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 74.872,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 75,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 75.064,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 75.128,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 75.192,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 75.256,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 75.321,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 75.385,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 75.449,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 75.513,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 75.577,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 75.641,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 75.705,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 75.769,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 75.833,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 75.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 76.026,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 76.154,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 76.282,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 76.282,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 76.41,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 76.538,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 76.538,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 76.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 76.795,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 76.795,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 76.923,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 76.923,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 77.051,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 77.051,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 77.179,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 77.308,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 77.436,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 77.436,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 77.564,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 77.564,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 77.692,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 77.692,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 77.821,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 77.821,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 77.917,
+        "duration": 1.154
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 77.949,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 78.013,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 78.141,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 78.205,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 78.269,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 78.333,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 78.462,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 78.59,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 78.654,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 78.846,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 78.974,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 79.103,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 79.103,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 79.231,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 79.359,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 79.359,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 79.487,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 79.551,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 79.679,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 79.744,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 79.872,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 79.936,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 80.064,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 80.128,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 80.256,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 80.256,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 80.449,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 80.449,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 80.577,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 80.577,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 80.769,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 80.833,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 80.897,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 80.962,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 81.026,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 81.218,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 81.282,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 81.346,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 81.41,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 81.538,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 81.603,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 81.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 81.731,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 81.795,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 81.859,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 81.923,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 82.051,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 82.051,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 82.179,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 82.244,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 82.308,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 82.308,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 82.436,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 82.564,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 82.564,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 82.692,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 82.821,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 82.821,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 82.885,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 82.949,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 83.077,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 83.077,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 83.205,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 83.269,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 83.333,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 83.333,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 83.462,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 83.59,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 83.59,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 83.718,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 83.846,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 83.91,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 83.974,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 83.974,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 84.103,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 84.167,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 84.231,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 84.295,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 84.359,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 84.359,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 84.487,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 84.615,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 84.615,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 84.744,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 84.872,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 84.872,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 85,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 85.064,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 85.128,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 85.128,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 85.256,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 85.385,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 85.385,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 85.449,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 85.513,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 85.577,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 85.577,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 85.641,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 85.769,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 85.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 85.897,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 86.026,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 86.154,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 86.154,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 86.282,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 86.41,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 86.41,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 86.538,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 86.667,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 86.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 86.795,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 86.923,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 87.051,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 87.179,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 87.179,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 87.308,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 87.372,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 87.436,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 87.564,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 87.564,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 87.692,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 87.756,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 87.821,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 87.949,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 87.949,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 88.077,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 88.141,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 88.205,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 88.333,
+        "duration": 0.641
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 88.333,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 88.333,
+        "duration": 0.641
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 88.397,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 88.59,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 88.59,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 88.782,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 88.782,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 88.974,
+        "duration": 0.513
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 88.974,
+        "duration": 0.513
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 89.167,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 89.167,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 89.359,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 89.359,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 89.551,
+        "duration": 0.513
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 89.551,
+        "duration": 0.513
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 89.744,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 89.744,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 89.936,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 89.936,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 90.128,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 90.128,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 90.256,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 90.256,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 90.385,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 90.449,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 90.513,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 90.577,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 90.705,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 90.769,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 90.897,
+        "duration": 0.385
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 90.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 91.09,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 91.154,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 91.218,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 91.282,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 91.41,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 91.538,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 91.667,
+        "duration": 0.641
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 91.667,
+        "duration": 0.641
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 91.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 91.795,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 91.923,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 92.051,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 92.179,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 92.308,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 92.436,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 92.5,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 92.564,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 92.628,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 92.628,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 92.692,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 92.756,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 92.756,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 92.949,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 92.949,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 93.077,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 93.077,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 93.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 93.333,
+        "duration": 0.128
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 93.333,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 93.526,
+        "duration": 0.128
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 93.526,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 93.718,
+        "duration": 0.128
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 93.718,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 93.91,
+        "duration": 0.128
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 93.91,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 94.103,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 94.103,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 94.487,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 94.487,
+        "duration": 0.128
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 94.679,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 94.679,
+        "duration": 0.128
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 94.872,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 94.872,
+        "duration": 0.128
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 95.064,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 95.064,
+        "duration": 0.128
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 95.256,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 95.256,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 95.385,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 95.385,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 95.641,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 95.769,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 95.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 96.026,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 96.154,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 96.282,
+        "duration": 0.769
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 96.282,
+        "duration": 0.705
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 97.179,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 97.244,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 97.308,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 97.372,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 97.436,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 97.5,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 97.564,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 97.628,
+        "duration": 2.244
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 97.949,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 98.077,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 98.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 98.333,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 98.462,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 98.718,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 98.718,
+        "duration": 1.218
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 98.846,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 98.974,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 99.103,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 99.231,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 99.359,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 99.487,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 99.615,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 99.744,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 100,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 100.064,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 100.128,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 100.192,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 100.256,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 100.321,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 100.385,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 100.449,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 100.513,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 100.641,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 100.769,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 100.897,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 101.026,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 101.058,
+        "duration": 0.513
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 101.154,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 101.282,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 101.41,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 101.538,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 101.538,
+        "duration": 0.769
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 101.667,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 101.795,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 101.923,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 102.051,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 102.179,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 102.308,
+        "duration": 1.026
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 102.436,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 102.564,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 102.564,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 102.692,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 102.821,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 102.949,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 102.949,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 103.077,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 103.205,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 103.205,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 103.333,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 103.59,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 103.59,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 103.718,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 103.846,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 103.846,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 103.974,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 104.103,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 104.103,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 104.231,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 104.231,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 104.359,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 104.359,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 104.487,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 104.487,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 104.615,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 104.679,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 104.744,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 104.808,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 104.872,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 104.936,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 105,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 105.064,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 105.128,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 105.192,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 105.256,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 105.321,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 105.385,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 105.449,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 105.513,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 105.577,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 105.641,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 105.641,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 105.769,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 105.897,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 105.897,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 106.026,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 106.154,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 106.154,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 106.282,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 106.41,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 106.41,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 106.538,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 106.667,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 106.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 106.795,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 106.987,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 106.987,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 107.179,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 107.179,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 107.179,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 107.308,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 107.5,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 107.5,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 107.692,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 107.692,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 107.692,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 107.949,
+        "duration": 1.09
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 107.949,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 108.077,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 108.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 108.333,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 108.462,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 108.59,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 108.718,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 108.846,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 108.974,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 109.103,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 109.103,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 109.295,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 109.487,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 109.487,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 109.744,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 110,
+        "duration": 1.474
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 110,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 110,
+        "duration": 1.474
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 110.128,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 110.256,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 110.385,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 110.449,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 110.513,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 110.641,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 110.769,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 110.833,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 110.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 111.026,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 111.09,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 111.154,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 111.282,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 111.41,
+        "duration": 0.897
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 112.179,
+        "duration": 0.962
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 112.179,
+        "duration": 0.962
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 113.077,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 113.077,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 113.333,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 113.462,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 113.59,
+        "duration": 0.577
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 113.59,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 114.103,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 114.103,
+        "duration": 0.577
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 114.359,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 114.615,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 114.615,
+        "duration": 0.321
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 114.872,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 114.872,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 115.128,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 115.385,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 115.513,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 115.641,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 115.769,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 115.897,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 115.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 116.154,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 116.282,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 116.282,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 116.41,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 116.41,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 116.538,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 116.667,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 116.667,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 116.795,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 116.795,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 116.923,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 117.179,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 117.179,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 117.436,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 117.436,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 117.692,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 117.692,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 117.949,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 118.013,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 118.077,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 118.141,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 118.205,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 118.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 118.333,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 118.462,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 118.59,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 118.718,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 118.718,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 118.846,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 118.974,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 119.103,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 119.231,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 119.359,
+        "duration": 1.09
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 119.359,
+        "duration": 1.09
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 119.615,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 119.615,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 120,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 120,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 120.128,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 120.128,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 120.256,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 120.256,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 120.385,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 120.385,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 120.769,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 120.769,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 120.769,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 120.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 120.897,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 120.897,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 121.282,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 121.282,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 121.282,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 121.41,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 121.41,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 121.41,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 121.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 121.667,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 121.667,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 121.795,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 121.795,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 121.795,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 122.179,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 122.179,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 122.308,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 122.308,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 122.564,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 122.564,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 122.564,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 122.564,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 122.692,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 122.692,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 122.692,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 122.692,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 123.077,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 123.077,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 123.077,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 123.205,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 123.205,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 123.205,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 123.462,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 123.462,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 123.462,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 123.59,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 123.59,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 123.59,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 123.846,
+        "duration": 0.833
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 123.974,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 124.103,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 124.231,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 124.359,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 124.487,
+        "duration": 0.641
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 124.487,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 124.615,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 124.744,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 124.872,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 125,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 125.128,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 125.256,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 125.385,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 125.513,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 125.641,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 125.769,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 125.897,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 126.026,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 126.154,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 126.282,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 126.41,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 126.474,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 126.538,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 126.603,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 126.667,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 126.731,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 126.795,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 126.859,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 126.923,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 126.987,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 127.051,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 127.115,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 127.179,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 127.244,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 127.308,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 127.372,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 127.436,
+        "duration": 1.346
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 127.436,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 127.564,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 127.692,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 127.821,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 127.949,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 127.949,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 128.077,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 128.205,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 128.205,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 128.333,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 128.462,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 128.526,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 128.59,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 128.718,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 128.718,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 128.718,
+        "duration": 1.09
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 128.846,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 128.846,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 128.974,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 128.974,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 129.103,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 129.231,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 129.231,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 129.359,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 129.487,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 129.487,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 129.615,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 129.744,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 129.744,
+        "duration": 2.308
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 129.744,
+        "duration": 2.308
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 132.051,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 132.179,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 132.308,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 132.372,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 132.436,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 132.5,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 132.564,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 132.628,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 132.692,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 132.692,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 132.756,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 132.821,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 132.885,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 132.949,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 133.013,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 133.077,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 133.077,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 133.141,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 133.205,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 133.269,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 133.333,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 133.397,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 133.462,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 133.462,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 133.526,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 133.526,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 133.59,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 133.654,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 133.718,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 133.782,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 133.846,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 133.846,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 133.91,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 133.974,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 134.038,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 134.038,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 134.103,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 134.167,
+        "duration": 0
+      },
+      {
+        "name": "Line1",
+        "row": 0,
+        "time": 134.231,
+        "duration": 0
+      },
+      {
+        "name": "Line 3",
+        "row": 2,
+        "time": 134.295,
+        "duration": 0
+      },
+      {
+        "name": "Line2",
+        "row": 1,
+        "time": 134.359,
+        "duration": 0
+      },
+      {
+        "name": "line4",
+        "row": 3,
+        "time": 134.359,
+        "duration": 0
+      }
+    ]
+  }
+}
