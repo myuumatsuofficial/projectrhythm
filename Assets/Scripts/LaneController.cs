@@ -90,15 +90,29 @@ public class LaneController : MonoBehaviour
             }
             else if (diff < 0.7f)
             {
-                ScoreManager.Instance.Hit("Good");
-                if (targetNote.isHoldNote) targetNote.StartHold();
-                else targetNote.Deactivate();
+                if (targetNote.isHoldNote)
+                {
+                    ScoreManager.Instance.Miss();
+                    targetNote.MarkMissed();
+                }
+                else
+                {
+                    ScoreManager.Instance.Hit("Good");
+                    targetNote.Deactivate();
+                }
             }
             else if (diff < 1f)
             {
-                ScoreManager.Instance.Bad();
-                if (targetNote.isHoldNote) targetNote.StartHold();
-                else targetNote.Deactivate();
+                if (targetNote.isHoldNote)
+                {
+                    ScoreManager.Instance.Miss();
+                    targetNote.MarkMissed();
+                }
+                else
+                {
+                    ScoreManager.Instance.Bad();
+                    targetNote.Deactivate();
+                }
             }
             else
             {

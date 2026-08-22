@@ -1,4 +1,3 @@
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class NoteController : MonoBehaviour
@@ -35,6 +34,14 @@ public class NoteController : MonoBehaviour
     [Tooltip("Transform child untuk kepala note. Disembunyikan saat hold dimulai")]
     public Transform noteHead;
 
+    [Header("Hold Tail Consume Visual")]
+    [Tooltip("Material holdTail HARUS pakai shader Custom/HoldNoteConsume (atau shader lain yang punya property _ConsumeAmount) supaya efek ini jalan.")]
+    [SerializeField, Range(0.001f, 0.5f)] private float fadeWidth = 0.06f;
+    [Tooltip("1 = konsumsi dari UV.y 0->1, -1 = arah sebaliknya. Kalau arah fade kebalik saat di-test, tinggal flip ini.")]
+    [SerializeField] private float consumeDirection = 1f;
+    [Tooltip("Kecepatan hilangnya tail. Semakin KECIL nilainya, semakin PERLAHAN tail menghilang (butuh waktu lebih lama dari holdDuration aslinya untuk full transparent). Semakin BESAR, semakin CEPAT hilang. 1 = pas sinkron dengan holdDuration.")]
+    public float consumeSpeed = 1f;
+
     private float initialTailLength = 0f;
     private Vector3 backDirLocal;
 
@@ -42,6 +49,15 @@ public class NoteController : MonoBehaviour
     private float secPerBeat;
 
     private float holdElapsed = 0f;
+
+    // Visual consumption dengan transparency (spatial wipe via shader)
+    private Renderer holdTailRenderer;
+    private MaterialPropertyBlock propBlock;
+    private static readonly int ConsumeAmountId = Shader.PropertyToID("_ConsumeAmount");
+    private static readonly int FadeWidthId = Shader.PropertyToID("_FadeWidth");
+    private static readonly int ConsumeDirectionId = Shader.PropertyToID("_ConsumeDirection");
+
+    private float lastAppliedConsumeAmount = -1f; // -1 supaya apply pertama selalu jalan
 
     public void Initialize()
     {
@@ -63,6 +79,22 @@ public class NoteController : MonoBehaviour
                 if (found != null) noteHead = found;
             }
 
+            // Initialize material property block untuk shader-based consume wipe
+            if (holdTail != null)
+            {
+                holdTailRenderer = holdTail.GetComponent<Renderer>();
+                if (holdTailRenderer != null)
+                {
+                    propBlock = new MaterialPropertyBlock();
+
+                    // fadeWidth & consumeDirection jarang berubah, cukup di-set sekali di sini
+                    holdTailRenderer.GetPropertyBlock(propBlock);
+                    propBlock.SetFloat(FadeWidthId, fadeWidth);
+                    propBlock.SetFloat(ConsumeDirectionId, consumeDirection);
+                    holdTailRenderer.SetPropertyBlock(propBlock);
+                }
+            }
+
             UpdateHoldTailVisual();
         }
         else
@@ -80,7 +112,7 @@ public class NoteController : MonoBehaviour
 
         float tMiss = (currentBeat - targetBeat) / 1.0f;
         transform.position = Vector3.LerpUnclamped(endPos, missPos, tMiss);
-      
+
 
         // Note missed: tail tetap gerak, tunggu selesai lalu hilang
         if (isMissed && isHoldNote)
@@ -106,7 +138,7 @@ public class NoteController : MonoBehaviour
                 holdTickTimer = 0f;
                 ScoreManager.Instance.HoldTick();
             }
-            
+
             UpdateHoldTailConsumed();
 
             if (currentBeat >= holdEndBeat) CompleteHold();
@@ -184,25 +216,6 @@ public class NoteController : MonoBehaviour
         Deactivate();
     }
 
-    private void ApplyTailLength(float length)
-    {
-        if (holdTail == null) return;
-
-        float safeLength = Mathf.Max(length, 0f);
-
-        Vector3 s = holdTail.localScale;
-        s.z = safeLength;
-        holdTail.localScale = s;
-
-        if (safeLength <= 0f)
-        {
-            holdTail.gameObject.SetActive(false);
-            return;
-        }
-
-        holdTail.localPosition = backDirLocal * (initialTailLength - safeLength * 0.5f);
-    }
-
     private void UpdateHoldTailVisual()
     {
         if (holdTail == null) return;
@@ -218,19 +231,67 @@ public class NoteController : MonoBehaviour
         Vector3 backDirWorld = (startPos - endPos).normalized;
         backDirLocal = transform.InverseTransformDirection(backDirWorld);
 
-        ApplyTailLength(initialTailLength);
+        // Set size awal (ukuran mesh tail) di sumbu Y - tidak diubah lagi selama consume berjalan.
+        Vector3 s = holdTail.localScale;
+        s.y = initialTailLength;
+        holdTail.localScale = s;
+
+        // Pivot mesh HoldTail ada di TENGAH -> scaling Y memanjang ke DUA arah sekaligus.
+        // Supaya ujung DEPAN tail tetap nempel pas di titik head (local origin, 0,0,0)
+        // dan cuma memanjang ke arah backDirLocal (menjauhi head), kita geser posisinya
+        // sejauh setengah panjang mesh (sudah dikali scale) ke arah backDirLocal.
+        //
+        // Asumsi: head berada tepat di local origin (0,0,0) note ini. Kalau head kamu
+        // punya local offset sendiri, tambahkan offset itu ke perhitungan di bawah.
+        float meshHalfHeight = 0.5f; // fallback kalau MeshFilter/sharedMesh tidak ada
+        MeshFilter tailMeshFilter = holdTail.GetComponent<MeshFilter>();
+        if (tailMeshFilter != null && tailMeshFilter.sharedMesh != null)
+        {
+            meshHalfHeight = tailMeshFilter.sharedMesh.bounds.extents.y;
+        }
+
+        holdTail.localPosition = backDirLocal * (meshHalfHeight * s.y);
+
+        // Reset consume amount ke 0 (belum ada yang terkonsumsi / full visible)
+        SetConsumeAmount(0f, forceApply: true);
+
+        if (holdTail != null && !holdTail.gameObject.activeSelf)
+            holdTail.gameObject.SetActive(true);
     }
 
     private void UpdateHoldTailConsumed()
     {
-        if (holdTail == null || initialTailLength <= 0f) return;
+        // consumeSpeed mengatur seberapa cepat holdElapsed "terasa" bagi fade:
+        // < 1 = fade lebih lambat dari holdDuration asli, > 1 = lebih cepat.
+        float progress = Mathf.Clamp01((holdElapsed / holdDuration) * consumeSpeed);
+        SetConsumeAmount(progress);
 
-        float progress = Mathf.Clamp01(holdElapsed / holdDuration);
-        float remaining = initialTailLength * (1f - progress);
-
-        ApplyTailLength(remaining);
+        // Sembunyikan tail kalau sudah full terkonsumsi (hemat render, bukan lagi ganti transform)
+        if (progress >= 0.99f && holdTail != null && holdTail.gameObject.activeSelf)
+        {
+            holdTail.gameObject.SetActive(false);
+        }
     }
 
+    /// <summary>
+    /// Update progress konsumsi visual tail lewat MaterialPropertyBlock.
+    /// Tidak menyentuh transform/scale sama sekali - hanya 1 float ke GPU.
+    /// </summary>
+    private void SetConsumeAmount(float normalizedAmount, bool forceApply = false)
+    {
+        if (holdTailRenderer == null || propBlock == null) return;
+
+        normalizedAmount = Mathf.Clamp01(normalizedAmount);
+
+        if (!forceApply && Mathf.Approximately(normalizedAmount, lastAppliedConsumeAmount))
+            return;
+
+        lastAppliedConsumeAmount = normalizedAmount;
+
+        holdTailRenderer.GetPropertyBlock(propBlock);
+        propBlock.SetFloat(ConsumeAmountId, normalizedAmount);
+        holdTailRenderer.SetPropertyBlock(propBlock);
+    }
 
     public void Deactivate()
     {
